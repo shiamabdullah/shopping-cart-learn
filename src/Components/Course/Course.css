@@ -1,0 +1,17 @@
+.course {
+  display: flex;
+  border-bottom: 1px solid lightgray;
+}
+
+.course img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+.courseContainer {
+  width: 70%;
+  margin-top: auto;
+  margin-bottom: auto;
+}
